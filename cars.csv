@@ -1,0 +1,101 @@
+﻿id,plate,owner,car_model,insurance_company,insurance_status,start_date,end_date
+C001,12가3456,John Smith,Hyundai Avante,Samsung Fire & Marine,ACTIVE,01 JAN 2026,01 JAN 2027
+C002,34나5678,Emily Johnson,Kia K5,DB Insurance,EXPIRED,15 FEB 2025,15 FEB 2026
+C003,56다1234,Michael Brown,Genesis G80,NONE,NO INSURANCE,-,-
+C004,78라9012,Sarah Davis,Hyundai Sonata,Samsung Fire & Marine,ACTIVE,10 MAR 2026,10 MAR 2027
+C005,91마2345,David Wilson,Kia Sportage,DB Insurance,EXPIRED,20 APR 2025,20 APR 2026
+C006,25바6789,Jessica Miller,Genesis GV70,NONE,NO INSURANCE,-,-
+C007,63사4521,Daniel Moore,Hyundai Tucson,Samsung Fire & Marine,ACTIVE,05 MAY 2026,05 MAY 2027
+C008,47아8123,Olivia Taylor,Kia Sorento,DB Insurance,EXPIRED,01 JUN 2025,01 JUN 2026
+C009,82자1954,James Anderson,Genesis G90,NONE,NO INSURANCE,-,-
+C010,17가7238,Sophia Thomas,Hyundai Grandeur,Samsung Fire & Marine,ACTIVE,15 JUL 2026,15 JUL 2027
+C011,39나4827,William Jackson,Kia Carnival,DB Insurance,EXPIRED,10 AUG 2025,10 AUG 2026
+C012,64다9513,Emma White,Genesis GV80,NONE,NO INSURANCE,-,-
+C013,88라3147,Benjamin Harris,Kia EV6,Samsung Fire & Marine,ACTIVE,01 SEP 2026,01 SEP 2027
+C014,23마8642,Ava Martin,Hyundai Ioniq 5,DB Insurance,EXPIRED,15 OCT 2025,15 OCT 2026
+C015,51바2976,Lucas Thompson,Genesis G70,NONE,NO INSURANCE,-,-
+C016,73사6408,Mia Garcia,Kia K8,Samsung Fire & Marine,ACTIVE,05 NOV 2026,05 NOV 2027
+C017,95아1835,Ethan Martinez,Hyundai Palisade,DB Insurance,EXPIRED,20 NOV 2025,20 NOV 2026
+C018,41자7562,Charlotte Robinson,Genesis Electrified G80,NONE,NO INSURANCE,-,-
+C019,123가4567,Alexander Clark,Kia Niro,Samsung Fire & Marine,ACTIVE,01 DEC 2026,01 DEC 2027
+C020,234나5678,Amelia Rodriguez,Hyundai Kona,DB Insurance,EXPIRED,05 JAN 2025,05 JAN 2026
+C021,345다6789,Henry Lewis,Genesis GV60,NONE,NO INSURANCE,-,-
+C022,456라7890,Harper Lee,Kia Seltos,Samsung Fire & Marine,ACTIVE,14 JAN 2026,14 JAN 2027
+C023,567마8901,Sebastian Walker,Hyundai Venue,DB Insurance,EXPIRED,22 FEB 2025,22 FEB 2026
+C024,678바9012,Evelyn Hall,Genesis G90,NONE,NO INSURANCE,-,-
+C025,789사0123,Jack Allen,Kia Mohave,Samsung Fire & Marine,ACTIVE,10 MAR 2026,10 MAR 2027
+C026,890아1234,Abigail Young,Hyundai Staria,DB Insurance,EXPIRED,01 APR 2025,01 APR 2026
+C027,901자2345,Owen Hernandez,Genesis GV70,NONE,NO INSURANCE,-,-
+C028,112가3456,Ella King,Kia Ray,Samsung Fire & Marine,ACTIVE,05 MAY 2026,05 MAY 2027
+C029,223나4567,Matthew Wright,Hyundai Casper,DB Insurance,EXPIRED,12 MAY 2025,12 MAY 2026
+C030,334다5678,Scarlett Lopez,Genesis G80,NONE,NO INSURANCE,-,-
+C031,445라6789,Joseph Green,Kia K3,Samsung Fire & Marine,ACTIVE,18 JUN 2026,18 JUN 2027
+C032,556마7890,Grace Scott,Hyundai Elantra,DB Insurance,EXPIRED,09 JUL 2025,09 JUL 2026
+C033,667바8901,Samuel Adams,Genesis GV80,NONE,NO INSURANCE,-,-
+C034,778사9012,Chloe Baker,Kia EV9,Samsung Fire & Marine,ACTIVE,03 AUG 2026,03 AUG 2027
+C035,889아0123,David Nelson,Hyundai Ioniq 6,DB Insurance,EXPIRED,15 AUG 2025,15 AUG 2026
+C036,992자1234,Lily Carter,Genesis G70,NONE,NO INSURANCE,-,-
+C037,135가2468,Christopher Mitchell,Kia Sportage,Samsung Fire & Marine,ACTIVE,01 SEP 2026,01 SEP 2027
+C038,246나3579,Zoe Perez,Hyundai Tucson,DB Insurance,EXPIRED,22 SEP 2025,22 SEP 2026
+C039,357다4680,Andrew Roberts,Genesis GV60,NONE,NO INSURANCE,-,-
+C040,468라5791,Hannah Turner,Kia Sorento,Samsung Fire & Marine,ACTIVE,10 OCT 2026,10 OCT 2027
+C041,553파4567,Joshua Roberts,Kia Sorento,Samsung Fire & Marine,ACTIVE,12 DEC 2026,12 DEC 2027
+C042,664하5678,Natalie Turner,Hyundai Santa Fe,DB Insurance,EXPIRED,10 DEC 2025,10 DEC 2026
+C043,775가6789,Ryan Phillips,Genesis G90,NONE,NO INSURANCE,-,-
+C044,886나7890,Victoria Campbell,Kia K5,Samsung Fire & Marine,ACTIVE,03 JAN 2026,03 JAN 2027
+C045,997다8901,Nathan Parker,Hyundai Sonata,DB Insurance,EXPIRED,15 JAN 2025,15 JAN 2026
+C046,108라9012,Aria Evans,Genesis GV70,NONE,NO INSURANCE,-,-
+C047,219마0123,Isaac Edwards,Kia Carnival,Samsung Fire & Marine,ACTIVE,22 FEB 2026,22 FEB 2027
+C048,320바1234,Penelope Collins,Hyundai Avante,DB Insurance,EXPIRED,28 FEB 2025,28 FEB 2026
+C049,431사2345,Aaron Stewart,Genesis G80,NONE,NO INSURANCE,-,-
+C050,542아3456,Layla Sanchez,Kia EV6,Samsung Fire & Marine,ACTIVE,09 MAR 2026,09 MAR 2027
+C051,654사4567,Adam Carter,Hyundai Elantra,Samsung Fire & Marine,ACTIVE,02 APR 2026,02 APR 2027
+C052,765아5678,Victoria Reed,Kia K8,DB Insurance,EXPIRED,18 APR 2025,18 APR 2026
+C053,876자6789,Leo Morgan,Genesis GV80,NONE,NO INSURANCE,-,-
+C054,987차7890,Emma Foster,Hyundai Tucson,Samsung Fire & Marine,ACTIVE,12 MAY 2026,12 MAY 2027
+C055,198카8901,Ryan Brooks,Kia Sorento,DB Insurance,EXPIRED,03 MAY 2025,03 MAY 2026
+C056,209타9012,Grace Howard,Genesis G70,NONE,NO INSURANCE,-,-
+C057,310파0123,Nathan Cooper,Hyundai Sonata,Samsung Fire & Marine,ACTIVE,20 JUN 2026,20 JUN 2027
+C058,421하1234,Lily Murphy,Kia EV6,DB Insurance,EXPIRED,15 JUN 2025,15 JUN 2026
+C059,532가2345,Jack Bennett,Genesis GV70,NONE,NO INSURANCE,-,-
+C060,643나3456,Sophia Price,Hyundai Grandeur,Samsung Fire & Marine,ACTIVE,01 JUL 2026,01 JUL 2027
+C061,754다4567,Lucas Ward,Kia Carnival,DB Insurance,EXPIRED,07 JUL 2025,07 JUL 2026
+C062,865라5678,Chloe Adams,Genesis G90,NONE,NO INSURANCE,-,-
+C063,976마6789,Henry Kelly,Hyundai Santa Fe,Samsung Fire & Marine,ACTIVE,11 AUG 2026,11 AUG 2027
+C064,187바7890,Ella Turner,Kia Sportage,DB Insurance,EXPIRED,22 AUG 2025,22 AUG 2026
+C065,298사8901,Owen Parker,Genesis Electrified G80,NONE,NO INSURANCE,-,-
+C066,309아9012,Zoe Collins,Hyundai Kona,Samsung Fire & Marine,ACTIVE,05 SEP 2026,05 SEP 2027
+C067,410자0123,Mason Edwards,Kia Niro,DB Insurance,EXPIRED,01 SEP 2025,01 SEP 2026
+C068,521차1234,Aria Mitchell,Genesis GV60,NONE,NO INSURANCE,-,-
+C069,632카2345,Ethan Roberts,Hyundai Ioniq 5,Samsung Fire & Marine,ACTIVE,14 OCT 2026,14 OCT 2027
+C070,743타3456,Mia Phillips,Kia K5,DB Insurance,EXPIRED,09 OCT 2025,09 OCT 2026
+C071,57가1284,Ethan Cooper,Hyundai Avante,DB Insurance,EXPIRED,05 NOV 2025,05 NOV 2026
+C072,83나4721,Sophia Reed,Kia K5,NONE,NO INSURANCE,-,-
+C073,26다8357,Liam Brooks,Genesis G80,Samsung Fire & Marine,ACTIVE,01 NOV 2026,01 NOV 2027
+C074,91라2648,Olivia Foster,Hyundai Sonata,DB Insurance,EXPIRED,12 DEC 2025,12 DEC 2026
+C075,48마7193,Noah Bennett,Kia Sportage,NONE,NO INSURANCE,-,-
+C076,72바5814,Emma Carter,Genesis GV70,Samsung Fire & Marine,ACTIVE,15 DEC 2026,15 DEC 2027
+C077,35사9472,James Morgan,Hyundai Tucson,DB Insurance,EXPIRED,08 JAN 2025,08 JAN 2026
+C078,64아3158,Ava Howard,Kia Sorento,NONE,NO INSURANCE,-,-
+C079,19자6824,Lucas Parker,Genesis G90,Samsung Fire & Marine,ACTIVE,20 JAN 2026,20 JAN 2027
+C080,123가7821,Mia Collins,Hyundai Grandeur,DB Insurance,EXPIRED,14 FEB 2025,14 FEB 2026
+C081,247나5936,William Ward,Kia Carnival,NONE,NO INSURANCE,-,-
+C082,358다7142,Charlotte Adams,Genesis GV80,Samsung Fire & Marine,ACTIVE,01 FEB 2026,01 FEB 2027
+C083,469라8257,Benjamin Kelly,Kia EV6,DB Insurance,EXPIRED,22 MAR 2025,22 MAR 2026
+C084,571마9368,Harper Price,Hyundai Ioniq 5,NONE,NO INSURANCE,-,-
+C085,682바1479,Daniel Turner,Genesis G70,Samsung Fire & Marine,ACTIVE,05 APR 2026,05 APR 2027
+C086,793사2581,Evelyn Mitchell,Kia K8,DB Insurance,EXPIRED,18 APR 2025,18 APR 2026
+C087,804아3692,Michael Roberts,Hyundai Palisade,NONE,NO INSURANCE,-,-
+C088,915자4713,Abigail Perez,Genesis Electrified G80,Samsung Fire & Marine,ACTIVE,01 MAY 2026,01 MAY 2027
+C089,126가5824,Henry Sanchez,Kia Niro,DB Insurance,EXPIRED,09 MAY 2025,09 MAY 2026
+C090,237나6935,Scarlett Cooper,Hyundai Kona,NONE,NO INSURANCE,-,-
+C091,348다7146,Jack Edwards,Genesis GV60,Samsung Fire & Marine,ACTIVE,12 JUN 2026,12 JUN 2027
+C092,459라8258,Grace Phillips,Kia Seltos,DB Insurance,EXPIRED,30 JUN 2025,30 JUN 2026
+C093,561마9361,Samuel Stewart,Hyundai Venue,NONE,NO INSURANCE,-,-
+C094,672바1472,Chloe Hughes,Genesis G90,Samsung Fire & Marine,ACTIVE,01 JUL 2026,01 JUL 2027
+C095,783사2583,David Bell,Kia Mohave,DB Insurance,EXPIRED,15 JUL 2025,15 JUL 2026
+C096,894아3694,Ella Murphy,Hyundai Staria,NONE,NO INSURANCE,-,-
+C097,105자4715,Joseph Bailey,Genesis GV70,Samsung Fire & Marine,ACTIVE,05 AUG 2026,05 AUG 2027
+C098,216가5826,Lily Rivera,Kia Ray,DB Insurance,EXPIRED,20 AUG 2025,20 AUG 2026
+C099,327나6937,Matthew Foster,Hyundai Casper,NONE,NO INSURANCE,-,-
+C100,438다7148,Zoe Morgan,Genesis G80,Samsung Fire & Marine,ACTIVE,01 SEP 2026,01 SEP 2027
